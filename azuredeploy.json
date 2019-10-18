@@ -35,7 +35,13 @@
               "West US 2",
               "Central India",
               "Canada Central",
-              "UK South"
+              "UK South",
+              "USGov Virginia",
+              "USGov Iowa",
+              "USDoD East",
+              "USDoD Central",
+              "USGov Texas",
+              "USGov Arizona"
             ],
             "metadata": {
               "description": "Specify the region for Application Insights data"
@@ -205,7 +211,7 @@
         "hostingPlanName": "[concat(parameters('functionAppName'), '-plan')]",
         "storageAccountName": "[concat('stofunc', uniquestring(resourceGroup().id))]",
         "BlobContainerName": "logs",
-        "GithubUri": "https://github.com/omiossec/StartStopVmByTag",
+        "GithubUri": "https://github.com/PlateSpinner/StartStopVmByTag",
         "prodbranch": "master"
     },
     "resources": [
