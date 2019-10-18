@@ -1,7 +1,9 @@
 # PowerShell Azure Function  Sample to start/stop VMs based on a tag
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fomiossec%2fStartStopVmByTag%2fmaster%2fazuredeploy.json) 
-<a href="http://armviz.io/#/?load=https%3a%2f%2fraw.githubusercontent.com%2fomiossec%2fStartStopVmByTag%2fmaster%2fazuredeploy.json" target="_blank">
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fPlateSpinner%2fStartStopVmByTag%2fmaster%2fazuredeploy.json) 
+[![Deploy to Azure Gov](http://azuredeploy.net/AzureGov.png)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fPlateSpinner%2fStartStopVmByTag%2fmaster%2fazuredeploy.json) 
+<a href="http://armviz.io/#/?load=https%3a%2f%2fraw.githubusercontent.com%2fPlateSpinner%2fStartStopVmByTag%2fmaster%2fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
